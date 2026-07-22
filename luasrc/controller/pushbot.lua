@@ -20,7 +20,7 @@ end
 
 function act_status()
 	local e={}
-	e.running=luci.sys.call("busybox ps|grep -v grep|grep -c pushbot >/dev/null")==0
+	e.running = luci.sys.exec("pgrep -f pushbot/pushbot") ~= ""
 	luci.http.prepare_content("application/json")
 	luci.http.write_json(e)
 end
