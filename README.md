@@ -64,8 +64,8 @@
 # 显示效果
 - **新的现代UI设计，兼容暗黑模式，更合理的架构**
 
-<img src="https://raw.githubusercontent.com/zzsj0928/ReadmeContents/main/Pushbot/Pushbot.v5.Dark.png" width="500">
-<img src="https://raw.githubusercontent.com/zzsj0928/ReadmeContents/main/Pushbot/Pushbot.v5.Light.png" width="500">
+<img src="https://raw.githubusercontent.com/zzsj0928/ReadmeContents/main/Pushbot/Pushbot.v5.Dark.png" width="850">
+<img src="https://raw.githubusercontent.com/zzsj0928/ReadmeContents/main/Pushbot/Pushbot.v5.Light.png" width="850">
 
 <br><br/>
 - **通知栏：直接显示推送主题，一目了然，按设备不同，分组显示**
